@@ -12,4 +12,4 @@ There are five example dataset for beginers,  change  the directory into the dat
 
 ### 3. Figure 
 
-![Alt text](tutorials/example4/example4.svg)
+![Alt text](tutorials/example1/example1.svg)
