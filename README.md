@@ -14,4 +14,4 @@ There are five example dataset for beginers,  change  the directory into the dat
 
 *example1*
 
-![Alt text](https://github.com/zhk2017/recos/blob/main/tutorials/example1/example1.png)
+![plot1](https://github.com/zhk2017/recos/blob/main/tutorials/example1/example1.png)
