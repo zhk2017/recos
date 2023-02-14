@@ -8,7 +8,7 @@
 > download base img 
 
 ### 2. Example dataset
-There are five example dataset for beginers,  change  the directory into the data path, and *sh run.sh*. when the job is finished, a SVG format picture will be generated. You can use Chromo browser to open it. 
+There are five example dataset for beginers,  change  the directory into the tutorials data path, and *sh run.sh*. when the job is finished, a SVG format picture will be generated. You can use Chromo browser to open it. 
 
 ### 3. Figure 
 
