@@ -13,4 +13,5 @@ There are five example dataset for beginers,  change  the directory into the dat
 ### 3. Figure 
 
 *example1*
-![Alt text](tutorials/example1/example1.png)
+
+![Alt text](https://github.com/zhk2017/recos/blob/main/tutorials/example1/example1.png)
