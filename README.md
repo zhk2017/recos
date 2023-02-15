@@ -49,6 +49,7 @@ There are five example dataset for beginers,  change  the directory into the tut
         chromosome_list = /data/example/ref_query.list  #定义染色体比较关系、条带颜色、染色体长度、透明度、比较ID等
         chroms = 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 #比较ID的列表在chromosome_list定义，指定展示顺序
         name_position = center  #染色体名称标签的位置
+        round=15 #设置染色体条带两端为圆形，单位像素，越大弧度越大，默认为0，表示直角
         
         >[ref_out1]  #定义参考基因组外侧要展示的图形元素
         file =/data/PAV/ref.bed
