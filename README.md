@@ -5,7 +5,7 @@
 >
 > git clone https://github.com/zhk2017/recos.git
 >
-> download base img from https://www.wenshushu.cn/k/ai1gotf28oz  Keychain access document wss:2LilFaNCrIZIYUMhhwadutZReYh
+> download base img from https://www.wenshushu.cn/k/ai1gotf28oz  Keychain access document： *wss:2LilFaNCrIZIYUMhhwadutZReYh*
 
 ### 2. Example dataset
 There are five example dataset for beginers,  change  the directory into the tutorials data path, and *sh run.sh*. when the job is finished, a SVG format picture will be generated. You can use Chromo browser to open it. 
