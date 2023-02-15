@@ -92,7 +92,7 @@ There are five example dataset for beginers,  change  the directory into the tut
 ![plot1](https://i.hd-r.cn/a93bfbda731dc90c3e1ec6cbdce8d78c.png)
 
 *example2*  cd tutorials/example2 && sh run.sh
-![plot2](https://cdn.hd-r.cn/e2f52c3dca83c0a94edefb75f5db643f.png)
+![plot2](https://i.hd-r.cn/e2f52c3dca83c0a94edefb75f5db643f.png)
 
 *example3*  cd tutorials/example3 && sh run.sh
 ![plot3](https://i.hd-r.cn/de4bcdb49f9e80252e7903af941a88a0.png)
