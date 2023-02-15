@@ -9,6 +9,7 @@
 >
 >mv base img recos.sif in img directory
 
+如果基础镜像链接失效，或者有其他问题，请加我微信，微信号：wxid_h7ip07mfu4l312
 
 ### 2. Example dataset
 There are five example dataset for beginers,  change  the directory into the tutorials data path, and *sh run.sh*. when the job is finished, a SVG format picture will be generated. You can use Chromo browser to open it. 
