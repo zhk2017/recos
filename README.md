@@ -1,4 +1,4 @@
-# recos(plot genomic characteristics and collinearity) user manual
+# recos(plot genomic characteristics and collinearity) 
 ### 1. Quick start
 
 > Install Singularity in your OS, you can refer <https://docs.sylabs.io/guides/latest/user-guide/quick_start.html>.
