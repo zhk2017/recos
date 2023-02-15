@@ -14,4 +14,4 @@ There are five example dataset for beginers,  change  the directory into the tut
 
 *example1*
 
-![plot1](https://img1.baidu.com/it/u=4121785881,4140921049&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=446)
+![plot1](https://i.hd-r.cn/a93bfbda731dc90c3e1ec6cbdce8d78c.png)
