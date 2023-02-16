@@ -5,9 +5,9 @@
 >
 > git clone https://github.com/zhk2017/recos.git
 >
-> download base img from https://www.wenshushu.cn/k/ai1gotf28oz  Keychain access document： *wss:2LilFaNCrIZIYUMhhwadutZReYh*
+> download base img： https://pan.baidu.com/s/1e54jrCk62SSvFcr8o7tMoA ， Extraction code： q2e5
 >
->mv base img recos.sif in img directory
+> base img file name is recos.sif, wo should mv base img recos.sif in img directory.
 
 如果基础镜像链接失效，或者有其他问题，请加我微信，微信号：wxid_h7ip07mfu4l312
 
