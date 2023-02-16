@@ -3,7 +3,7 @@
 install
 > step1: Install Singularity in your OS, you can refer <https://docs.sylabs.io/guides/latest/user-guide/quick_start.html>.
 >
-> step2: git clone https://github.com/zhk2017/recos.git
+> step2: git clone https://github.com/zhk2017/recos.git, cd recos/exe && chmod 755 recos
 >
 > step3: download base img： https://pan.baidu.com/s/1e54jrCk62SSvFcr8o7tMoA ， Extraction code： q2e5
 >
