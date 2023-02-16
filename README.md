@@ -1,13 +1,13 @@
 # recos(plot genomic characteristics and collinearity) 
 ### 1. Quick start
-
-> Install Singularity in your OS, you can refer <https://docs.sylabs.io/guides/latest/user-guide/quick_start.html>.
+install
+> step1: Install Singularity in your OS, you can refer <https://docs.sylabs.io/guides/latest/user-guide/quick_start.html>.
 >
-> git clone https://github.com/zhk2017/recos.git
+> step2: git clone https://github.com/zhk2017/recos.git
 >
-> download base img： https://pan.baidu.com/s/1e54jrCk62SSvFcr8o7tMoA ， Extraction code： q2e5
+> step3: download base img： https://pan.baidu.com/s/1e54jrCk62SSvFcr8o7tMoA ， Extraction code： q2e5
 >
-> base img file name is recos.sif, wo should mv base img recos.sif in img directory(*cloned directory*).
+> step4: base img file name is recos.sif, wo should mv base img recos.sif in img directory(*cloned directory*).
 
 如果基础镜像链接失效，或者有其他问题，请加我微信，微信号：wxid_h7ip07mfu4l312
 
